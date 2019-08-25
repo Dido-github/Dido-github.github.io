@@ -6,7 +6,7 @@ var myData={designer:{name:'刘纯',phone:'18273172707',tag:["#爱设计 #爱生
 }, {
 	src: "myworks/04.png",
 	href :"/art2.html",
-	w: 3264
+	w: 3264,
 	h: 2448
 }
 
