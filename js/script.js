@@ -62,7 +62,7 @@ function getImages() {
 		galleryHtml += `
 			<figure class="gallery-item animate-up animate-delay-${Math.floor(Math.random()*4)+1}">
 				<div class="img-wrapper" style="padding-bottom:${imgHeight}%;">
-					<img src="${gallery[galleryIndex].src}"/>
+					<a href="${gallery[galleryIndex].href}"><img src="${gallery[galleryIndex].src}"/></a>
 				</div>
 			</figure>
 		`;
