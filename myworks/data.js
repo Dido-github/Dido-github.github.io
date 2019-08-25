@@ -1,29 +1,29 @@
 var myData={designer:{name:'刘纯',phone:'18273172707',tag:["#爱设计 #爱生活 #就是美 "],bg:'#26241e'},gallery:[{
-	src: "myworks/3.png",
+	src: "myworks/03.png",
 	w: 2500,
 	h: 1618
 }, {
-	src: "myworks/4.png",
+	src: "myworks/04.png",
 	w: 3264,
 	h: 2448
 }, {
-	src: "myworks/5.png",
+	src: "myworks/05.png",
 	w: 2854,
 	h: 3539
 }, {
-	src: "myworks/6.png",
+	src: "myworks/06.png",
 	w: 6000,
 	h: 4000
 }, {
-	src: "myworks/7.png",
+	src: "myworks/07.png",
 	w: 6000,
 	h: 4000
 }, {
-	src: "myworks/8.png",
+	src: "myworks/08.png",
 	w: 6000,
 	h: 4000
 }, {
-	src: "myworks/9.png",
+	src: "myworks/09.png",
 	w: 6000,
 	h: 4000
 }, {
@@ -32,6 +32,10 @@ var myData={designer:{name:'刘纯',phone:'18273172707',tag:["#爱设计 #爱生
 	h: 4000
 }, {
 	src: "myworks/11.png",
+	w: 6000,
+	h: 4000
+}, {
+	src: "myworks/12.png",
 	w: 6000,
 	h: 4000
 }]}
